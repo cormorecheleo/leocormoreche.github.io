@@ -1,101 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="102.3716mm"
-   height="144.49777mm"
-   viewBox="0 0 362.73401 511.99998"
-   id="svg3476"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="CSS3.svg">
-  <defs
-     id="defs3478" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="181.367"
-     inkscape:cy="256"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata3481">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Calque 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-193.633,-276.3622)">
-    <g
-       id="g3013"
-       transform="translate(119,276.3622)">
-      <polygon
-         id="polygon2989"
-         points="437.367,100.62 404.321,470.819 255.778,512 107.644,470.877 74.633,100.62 "
-         style="fill:#264de4" />
-      <polygon
-         id="polygon2991"
-         points="376.03,447.246 404.27,130.894 256,130.894 256,480.523 "
-         style="fill:#2965f1" />
-      <polygon
-         id="polygon2993"
-         points="150.31,268.217 154.38,313.627 256,313.627 256,268.217 "
-         style="fill:#ebebeb" />
-      <polygon
-         id="polygon2995"
-         points="256,176.305 255.843,176.305 142.132,176.305 146.26,221.716 256,221.716 "
-         style="fill:#ebebeb" />
-      <polygon
-         id="polygon2997"
-         points="256,433.399 256,386.153 255.801,386.206 205.227,372.55 201.994,336.333 177.419,336.333 156.409,336.333 162.771,407.634 255.791,433.457 "
-         style="fill:#ebebeb" />
-      <path
-         id="path2999"
-         d="m 160,0 55,0 0,23 -32,0 0,23 32,0 0,23 -55,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3001"
-         d="m 226,0 55,0 0,20 -32,0 0,4 32,0 0,46 -55,0 0,-21 32,0 0,-4 -32,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3003"
-         d="m 292,0 55,0 0,20 -32,0 0,4 32,0 0,46 -55,0 0,-21 32,0 0,-4 -32,0 z"
-         inkscape:connector-curvature="0" />
-      <polygon
-         id="polygon3005"
-         points="311.761,313.627 306.49,372.521 255.843,386.191 255.843,433.435 348.937,407.634 349.62,399.962 360.291,280.411 361.399,268.217 369.597,176.305 255.843,176.305 255.843,221.716 319.831,221.716 315.699,268.217 255.843,268.217 255.843,313.627 "
-         style="fill:#ffffff" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100pt" height="141pt" viewBox="0 0 100 141" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(14.901961%,30.196078%,89.411765%);fill-opacity:1;" d="M 99.925781 27.710938 L 90.824219 129.660156 L 49.902344 141 L 9.09375 129.675781 L 0 27.710938 Z M 99.925781 27.710938 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(16.078431%,39.607843%,94.509804%);fill-opacity:1;" d="M 83.03125 123.167969 L 90.808594 36.046875 L 49.964844 36.046875 L 49.964844 132.332031 Z M 83.03125 123.167969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.156863%,92.156863%,92.156863%);fill-opacity:1;" d="M 20.847656 73.863281 L 21.96875 86.371094 L 49.964844 86.371094 L 49.964844 73.863281 Z M 20.847656 73.863281 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.156863%,92.156863%,92.156863%);fill-opacity:1;" d="M 49.964844 48.554688 L 18.59375 48.554688 L 19.730469 61.058594 L 49.964844 61.058594 Z M 49.964844 48.554688 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.156863%,92.156863%,92.156863%);fill-opacity:1;" d="M 49.964844 119.355469 L 49.964844 106.34375 L 49.910156 106.359375 L 35.976562 102.597656 L 35.085938 92.621094 L 22.527344 92.621094 L 24.28125 112.257812 L 49.90625 119.371094 Z M 49.964844 119.355469 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 23.515625 0 L 38.667969 0 L 38.667969 6.332031 L 29.851562 6.332031 L 29.851562 12.667969 L 38.667969 12.667969 L 38.667969 19 L 23.515625 19 Z M 23.515625 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 41.699219 0 L 56.851562 0 L 56.851562 5.507812 L 48.035156 5.507812 L 48.035156 6.609375 L 56.851562 6.609375 L 56.851562 19.277344 L 41.699219 19.277344 L 41.699219 13.492188 L 50.515625 13.492188 L 50.515625 12.390625 L 41.699219 12.390625 Z M 41.699219 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 59.878906 0 L 75.03125 0 L 75.03125 5.507812 L 66.21875 5.507812 L 66.21875 6.609375 L 75.03125 6.609375 L 75.03125 19.277344 L 59.878906 19.277344 L 59.878906 13.492188 L 68.695312 13.492188 L 68.695312 12.390625 L 59.878906 12.390625 Z M 59.878906 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 65.324219 86.371094 L 63.871094 102.589844 L 49.921875 106.351562 L 49.921875 119.363281 L 75.566406 112.257812 L 75.753906 110.144531 L 78.695312 77.222656 L 79 73.863281 L 81.257812 48.554688 L 49.921875 48.554688 L 49.921875 61.058594 L 67.546875 61.058594 L 66.410156 73.863281 L 49.921875 73.863281 L 49.921875 86.371094 Z M 65.324219 86.371094 "/>
+</g>
 </svg>
