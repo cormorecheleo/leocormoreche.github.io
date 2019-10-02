@@ -1,5 +1,5 @@
-#H1 **Portefolio de Léo CORMORECHE**
-#H2 **Objectif :**
+**#H1 Portefolio de Léo CORMORECHE**
+**#H2 Objectif :**
 1. Mettre en oeuvre les technologies web pour créer et heberger mon portfolio
 
   **-Netbeans:** Environnement de développement intégré (IDE) utilisé pour ce projet
