@@ -9,17 +9,17 @@
 ![GitHub](GitHub-Mark.png)
 
 
-    - **Netbeans:** Environnement de développement intégré (IDE) utilisé pour ce projet
+   - **Netbeans:** Environnement de développement intégré (IDE) utilisé pour ce projet
   
-    - **HTML:** Language de description utilisé pour concevoir les pages web
+   - **HTML:** Language de description utilisé pour concevoir les pages web
     
-    - **CSS:** Language de style utilisé pour concevoir les pages web
+   - **CSS:** Language de style utilisé pour concevoir les pages web
     
-    - **Bootstrap:** Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
+   - **Bootstrap:** Framework graphique utilisé pour faciliter la création de pages web (utilisation d'une base de règles CSS existantes)
     
-    - **Git:** Logiciel de gestion de version
+   - **Git:** Logiciel de gestion de version
   
-    - **GitHub:** Forge logicielle en ligne utilisant Git
+   - **GitHub:** Forge logicielle en ligne utilisant Git
   
   
 #### 2. Pour l'épreuve E6
